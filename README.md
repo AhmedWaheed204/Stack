@@ -1,2 +1,2 @@
 # Stack
-##Implementation for Stack
+## Implementation for Stack
